@@ -1,7 +1,5 @@
 -- made by yiyuan li --
 
-
--- create vw
 CREATE VIEW vw_SalesPerformance AS
 SELECT 
     s.[Sale Key],
