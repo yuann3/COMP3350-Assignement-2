@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<RptDataSource xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="WideWorldImportersDW">
-  <ConnectionProperties>
-    <Extension>SQL</Extension>
-    <ConnectString>Data Source=LAPTOP-7PCTEV8P;Initial Catalog=WideWorldImportersDW;TrustServerCertificate=True</ConnectString>
-    <IntegratedSecurity>true</IntegratedSecurity>
-  </ConnectionProperties>
-  <DataSourceID>a63ad2f0-ef7c-42dc-8f6d-add335bfdadd</DataSourceID>
-</RptDataSource>
